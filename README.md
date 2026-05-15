@@ -40,6 +40,11 @@ Madhu-Marga solves these problems through a centralized Android-based intelligen
 # ✨ Core Features
 
 ## 📊 Smart Dashboard
+<p align="center">
+
+  <img src="screenshots/Dashboard.png" width="300"/>
+
+</p>
 A modern dashboard providing a quick overview of apiary performance.
 
 Includes:
@@ -68,6 +73,12 @@ Features:
 ## 📝 Inspection Log System
 Structured hive inspection tracking for health monitoring.
 
+<p align="center">
+
+  <img src="screenshots/Analytics.png" width="300"/>
+
+</p>
+
 Inspection data includes:
 - Queen presence/absence
 - Pest sightings
@@ -75,10 +86,22 @@ Inspection data includes:
 - Temperature observations
 - Hive condition notes
 
+<p align="center">
+
+  <img src="screenshots/Hive-Inspection.png" width="300"/>
+
+</p>
+
 ---
 
 ## 🍯 Harvest Tracker
 Track honey production efficiently.
+
+<p align="center">
+
+  <img src="screenshots/Hive-management.png" width="300"/>
+
+</p>
 
 Capabilities:
 - Record harvest quantities
@@ -89,6 +112,13 @@ Capabilities:
 ---
 
 ## 🌸 Flora Guide
+
+<p align="center">
+
+  <img src="screenshots/Flora-Calender.png" width="300"/>
+
+</p>
+
 Seasonal floral intelligence to support better beekeeping decisions.
 
 Features:
@@ -100,6 +130,13 @@ Features:
 ---
 
 ## 🚨 Smart Alert Center
+
+<p align="center">
+
+  <img src="screenshots/Alerts.png" width="300"/>
+
+</p>
+
 Intelligent alerting system for hive management risks.
 
 Alerts include:
@@ -138,25 +175,13 @@ Sample recommendations:
 
 ---
 
-## 🌙 Theme Support
-User interface customization options:
-- Light Mode
-- Dark Mode
-- System Theme Support
-
----
-
-## 🔔 Notification Scheduling
-Reminder and alert management system.
-
-Supports:
-- Inspection reminders
-- Custom notification timing
-- Smart intervention alerts
-
----
-
 # 🧠 AI Hive Doctor – Intelligent Diagnostic Engine
+
+<p align="center">
+
+  <img src="screenshots/Ai-doctor.png" width="300"/>
+
+</p>
 
 The AI Hive Doctor functions as a rule-based decision support system that simulates expert beekeeping reasoning.
 
